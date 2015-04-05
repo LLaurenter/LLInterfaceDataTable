@@ -1,0 +1,2 @@
+# LLInterfaceDataTable
+LLInterfaceDataTable is a category on WKInterfaceTable that makes configuring tables with multi-dimensional data easier. Instead of flattening your data structures into an array, configure your watch tables using a data source pattern similar to UITableViewDataSource.  Use LLInterfaceDataTable to build beautiful Apple Watch apps with complex data structures, just like in the Instagram Apple Watch app.
